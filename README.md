@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Mohamed Bassam 
+# 👋 Hi, I'm Mohamed Bassam  
+**💻 Computer Engineering Student | 🤖 Aspiring Machine Learning Engineer | 📊 Data Enthusiast**
 
-**💻 Computer Engineering Student | 🤖 Aspiring Machine Learning Engineer | 📊 Data Enthusiast** I'm a Computer and Communication Engineering student at Alexandria University with a strong passion for transforming raw data into intelligent insights. I am fascinated by the power of **Machine Learning** and **AI** in solving complex, real-world problems. 
+I'm a Computer and Communication Engineering student at Alexandria University with a strong passion for transforming raw data into intelligent insights. I am fascinated by the power of **Machine Learning** and **AI** in solving complex, real-world problems.
 
 ---
 
