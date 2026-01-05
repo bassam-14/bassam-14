@@ -43,12 +43,3 @@ I'm a Computer and Communication Engineering student at Alexandria University wi
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" title="Pandas" alt="Pandas" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow" alt="TensorFlow" width="48" height="48"/>
 </p>
-
----
-
-## 📊 GitHub Stats 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bassam-14&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassam-14&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
